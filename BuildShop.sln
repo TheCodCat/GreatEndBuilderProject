@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildShop", "BuildShop\BuildShop.csproj", "{29C560E3-39E8-44A2-8486-C23FCA402C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildShop.Database", "BuildShop.Database\BuildShop.Database.csproj", "{3C700A11-C017-40EC-9464-A99B5157CAF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildShop.Model", "BuildShop.Model\BuildShop.Model.csproj", "{5D549496-9415-4066-9E13-E41F663D9F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C560E3-39E8-44A2-8486-C23FCA402C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C560E3-39E8-44A2-8486-C23FCA402C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C560E3-39E8-44A2-8486-C23FCA402C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C560E3-39E8-44A2-8486-C23FCA402C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C700A11-C017-40EC-9464-A99B5157CAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C700A11-C017-40EC-9464-A99B5157CAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C700A11-C017-40EC-9464-A99B5157CAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C700A11-C017-40EC-9464-A99B5157CAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D549496-9415-4066-9E13-E41F663D9F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D549496-9415-4066-9E13-E41F663D9F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D549496-9415-4066-9E13-E41F663D9F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D549496-9415-4066-9E13-E41F663D9F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
