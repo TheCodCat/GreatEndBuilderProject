@@ -1,6 +1,10 @@
 using BuildShop.Components;
+using BuildShop.Database;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<BuildContext>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -23,5 +27,12 @@ app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
+
+using (var SericeScope = app.Services.CreateScope())
+{
+    var context = SericeScope.ServiceProvider.GetRequiredService<BuildContext>();
+    
+    context.Database.Migrate();
+}
 
 app.Run();

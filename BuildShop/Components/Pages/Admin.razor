@@ -1,0 +1,44 @@
+﻿@page "/admin"
+@using BuildShop.Database
+@using BuildShop.Model
+@rendermode InteractiveServer
+@inject BuildContext ef
+
+<EditForm FormName="formAddItem" Model="_client" OnValidSubmit="@Submit">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_client.NickName"/>
+    <p>Стоимость</p>
+    <input type="number" @bind="_client.Email"/>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_product.Title"/>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_"/>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_"/>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_"/>
+    <p>Введите называние игры</p>
+    <input type="text" @bind="_"/>
+    <button type="submit">Добавить игру</button>
+</EditForm>
+
+@code {
+    private Client _client = new Client();
+    private Product _product = new Product();
+    private Order _order = new Order();
+    private Delivery _delivery = new Delivery();
+
+    private void Submit(EditContext arg)
+    {
+        ef.Add(_client);
+        ef.Add(_product);
+        ef.Add(_order);
+        ef.Add(_delivery);
+        ef.SaveChanges();
+        _client = new Client();
+        _product = new Product();
+        _order = new Order();
+        _delivery = new Delivery();
+    }
+}
