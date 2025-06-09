@@ -6,20 +6,24 @@
 
 <EditForm FormName="formAddItem" Model="_client" OnValidSubmit="@Submit">
     <DataAnnotationsValidator></DataAnnotationsValidator>
-    <p>Введите называние игры</p>
+    <p>Введите имя пользователя</p>
     <input type="text" @bind="_client.NickName"/>
-    <p>Стоимость</p>
-    <input type="number" @bind="_client.Email"/>
-    <p>Введите называние игры</p>
+    <p>Введите почту клиентак</p>
+    <input type="text" @bind="_client.Email"/>
+    <p>Введите называние товара</p>
     <input type="text" @bind="_product.Title"/>
-    <p>Введите называние игры</p>
-    <input type="text" @bind="_"/>
-    <p>Введите называние игры</p>
-    <input type="text" @bind="_"/>
-    <p>Введите называние игры</p>
-    <input type="text" @bind="_"/>
-    <p>Введите называние игры</p>
-    <input type="text" @bind="_"/>
+    <p>Введите количество товара</p>
+    <input type="text" @bind="_product.Count"/>
+    <p>Введите цену товара</p>
+    <input type="text" @bind="_product.Price"/>
+    <p>Введите адрес доставки</p>
+    <input type="text" @bind="_order.Addres"/>
+    <p>Введите город доставки</p>
+    <input type="text" @bind="_order.City"/>
+    <p>Введите страну долставки</p>
+    <input type="text" @bind="_order.Country"/>
+    <p>Введите дату доставки</p>
+    <input type="text" @bind="_delivery.DayOfOrder"/>
     <button type="submit">Добавить игру</button>
 </EditForm>
 
