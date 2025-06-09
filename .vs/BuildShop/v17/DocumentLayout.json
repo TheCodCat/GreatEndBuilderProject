@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio\\GreatEndBuilderProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\pages\\admin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C560E3-39E8-44A2-8486-C23FCA402C9E}|BuildShop\\BuildShop.csproj|solutionrelative:buildshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C700A11-C017-40EC-9464-A99B5157CAF6}|BuildShop.Database\\BuildShop.Database.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop.database\\buildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C700A11-C017-40EC-9464-A99B5157CAF6}|BuildShop.Database\\BuildShop.Database.csproj|solutionrelative:buildshop.database\\buildcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop.model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|solutionrelative:buildshop.model\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop.model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|solutionrelative:buildshop.model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|e:\\visualstudio\\greatendbuilderproject\\buildshop.model\\buildshop.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D549496-9415-4066-9E13-E41F663D9F55}|BuildShop.Model\\BuildShop.Model.csproj|solutionrelative:buildshop.model\\buildshop.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:47:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BuildShop\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BuildShop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T12:43:04.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:41:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Routes.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Routes.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\App.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\App.razor",
+              "RelativeToolTip": "BuildShop\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Pages\\Error.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Pages\\Counter.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\_Imports.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\_Imports.razor",
+              "RelativeToolTip": "BuildShop\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:40:00.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.razor",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Admin.razor",
+              "RelativeDocumentMoniker": "BuildShop\\Components\\Pages\\Admin.razor",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Components\\Pages\\Admin.razor",
+              "RelativeToolTip": "BuildShop\\Components\\Pages\\Admin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T12:38:18.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Program.cs",
+              "RelativeDocumentMoniker": "BuildShop\\Program.cs",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\Program.cs",
+              "RelativeToolTip": "BuildShop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:38:09.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BuildShop\\appsettings.json",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop\\appsettings.json",
+              "RelativeToolTip": "BuildShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T12:38:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuildContext.cs",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Database\\BuildContext.cs",
+              "RelativeDocumentMoniker": "BuildShop.Database\\BuildContext.cs",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Database\\BuildContext.cs",
+              "RelativeToolTip": "BuildShop.Database\\BuildContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:56.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\Delivery.cs",
+              "RelativeDocumentMoniker": "BuildShop.Model\\Delivery.cs",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\Delivery.cs",
+              "RelativeToolTip": "BuildShop.Model\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\Client.cs",
+              "RelativeDocumentMoniker": "BuildShop.Model\\Client.cs",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\Client.cs",
+              "RelativeToolTip": "BuildShop.Model\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuildShop.Model",
+              "DocumentMoniker": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\BuildShop.Model.csproj",
+              "RelativeDocumentMoniker": "BuildShop.Model\\BuildShop.Model.csproj",
+              "ToolTip": "E:\\VisualStudio\\GreatEndBuilderProject\\BuildShop.Model\\BuildShop.Model.csproj",
+              "RelativeToolTip": "BuildShop.Model\\BuildShop.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T12:37:48.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
